@@ -1,6 +1,6 @@
 Hi ther, I'm Agustín.
 
-🔭 I'm currently learning React Native, JavaScript, HTML, CSS and PostgreSQL
+🔭 I'm currently learning React Native, JavaScript, HTML, CSS, PostgreSQL and Git
 
 💞️ Looking forward to learn Flutter, React JS, AngularJS
 
