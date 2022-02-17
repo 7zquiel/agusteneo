@@ -1,4 +1,4 @@
-Hi ther, I'm Agustín.
+# Hi there, I'm Agustín.
 
 🔭 I'm currently learning React Native, JavaScript, HTML, CSS, PostgreSQL and Git
 
