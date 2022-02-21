@@ -4,7 +4,7 @@
 
 💞️ Looking forward to learn Flutter, React JS, AngularJS
 
-🎓 Studying Information Sistems
+🎓 Studying Information Systems
 
 👀 I'm super interested in mobile applications development and web design
 
